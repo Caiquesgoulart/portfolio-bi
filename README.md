@@ -4,7 +4,7 @@ Portfolio de projetos de BI, criados com o objetivo de estudo e aprendizado.
 ## Dashboard vendas
 Aqui construí um dashboard de vendas para analisar os principais insights que podem ser gerados com os dados da planilha de vendas utilizada (Link: https://www.hashtagtreinamentos.com/modelos-power-bi / Planilha "Vendas" anexada).
 
-Você pode conferir o pbix aqui: [dashboard_filmes]
+Você pode conferir o pbix aqui: [dashboard_filmes](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/dashboard_filmes)
 
 ### Visual e dados
 - Aqui optei por um visual simples com cores destacando as marcas, KPIs com os principais insights sumarizados (como não existem dados de metas na planilha o KPI funciona apenas como exemplo visual). 

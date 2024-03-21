@@ -28,6 +28,10 @@ Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
 - Aprender a trabalhar com Python + BigQuery, integrar os dois
 
 ### O código: 
-O código completo pode ser encontrado pelo link: [main.py]()
+O código completo pode ser encontrado pelo link: [main.py](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_compras/main.py) na pasta "etl_compras"
+
+### O dashboard: 
+Em desenvolvimento...
+
 
 

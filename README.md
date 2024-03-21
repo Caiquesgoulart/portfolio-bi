@@ -30,7 +30,7 @@ Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
 - Fazer conexão do BigQuery com o Looker
 
 ### O código: 
-O código completo pode ser encontrado pelo link: [main.py](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_compras/main.py) na pasta "etl_compras"
+O código completo pode ser encontrado pelo link: [main.py](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_compras/main.py) na pasta "etl_compras". O código possuí comentários explicando todos os passos que realizei. 
 
 ### O dashboard: 
 Em desenvolvimento...

@@ -1,7 +1,7 @@
 # Portfolio BI 
 Portfolio de projetos de BI, criados com o objetivo de estudo e aprendizado. 
 
-## Dashboard vendas
+## Dashboard vendas com PowerBI
 Aqui construí um dashboard de vendas para analisar os principais insights que podem ser gerados com os dados da planilha de vendas utilizada (Link: https://www.hashtagtreinamentos.com/modelos-power-bi / Planilha "Vendas" anexada).
 
 Você pode conferir o pbix, juntamente com a planilha utilizada, aqui: [dashboard_vendas](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/dashboard_vendas)
@@ -18,4 +18,9 @@ Você pode conferir o pbix, juntamente com a planilha utilizada, aqui: [dashboar
 - Os visuais aqui seguem o contexto dos dados contidos na planilha, sendo assim, algumas análises são específicas para esses contextos, por exemplo:
   - O gráfico de pizza utilizado funciona bem pois temos apenas três marcas, o que deixa visualmente atrativo e de fácil visualização.
   - O gráfico de linhas também funciona bem pois temos apenas dois anos para analisar.
+ 
+
+## Projeto ETL de compras + Dashboard no Looker
+Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto: 
+- 
 

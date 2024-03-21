@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "projeto-dash-compras",
+  "private_key_id": "c65d002864553fbcb4fe16731eca7c5f5461f987",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPyQuKaS9CIPwO\ng+IIJMOmMeuVm10uZ1U2olnea+/crJaNr+CgYX+jovmnVGYblT7ELBlS7E+G032j\naO302MWuhr8HcYrBltgNfjsbL4dRmMHt4jcMjFnUD5jD4gMMFDDuP/yn3VV7QvpV\nKvOQHE80apn8fr4dcQsvgZkcevD0QGWxFAh1Oc5V9fXk4rLjoYGvKmQPhLT54xeD\nIAgN3n7zW4r5u/+WiAI6nPTuMpGdL4GAMlUkl18yOgJJS2KV/GQWOfE2u+bY5WS7\nJQ9jINEItzS2LIdy/V3sl/gbFbVWLSuedjLJxJhYyBrcCaO9/Tw5CsR/o8kKA903\noB/SNaGRAgMBAAECggEAGAm4Z9IM2U/jERPRS6NjLgAi8rsXT9W8/jXQg0KF7Ifb\n3/bbm/pDj6z8SE8jg+fja8L1SApWFfE0HPo34yZL0km84lHQnV5DzuXOVTINq9Mq\nBkjwGOfIwZdvUyP7ucNBOOLWqh3ZNIoWV1GBfWfFAvmdKGCKQnIwOtX5nlmbtAnk\npP/M2MYAgiUSiifxLHbWhuGMdFGoZU3D9jWZCEfOKEbvPC7JiD+mHELXXeHZlyHZ\nOYsx5Rq8CXt1uff2r6AIKm2FkORmteGx+JWplToXZ0R0QOK6shc0xK3/c3u/pQTT\nsfKF6RV8At/j+en9s10Hy4o9c2k3kxCscQbLui1L8QKBgQD45nXorNTXcIQGlz0o\n9YgeP4ugF3KNA3KHC9DnKpp/YmuI59AnZnU8ceIelGJ/D2b9ecMOS9jFUBRN3Ho7\n29xpIsJVEXMKiOWuyFLO3qtBKYTm9f29vaplOHcNhNrBcWtEGX1nuToSHn9tW69t\nezWlmk6KaQ8ekV3T3qnGOTmuKQKBgQDVtloXoECoQH+2ljehTH+DCG5PNo7pXx13\nqGkG14mkLXhnDts3XMw7tDgTr7Z6tBeQqlna0Bz2PbO0w9/Xp3h+nsK6v5ODHtCA\n3lRnMwUYBtd9ww2rfGqAkhE6W6QIz4L3kvF84srtrCKla9L+tqMvHDS10OZ/H76g\nOJCfnGB1KQKBgGcXxdS26X3Gq9izAfEaKeQle+a2b4r615AaE8/79Hw4vsO5CJ2Z\nMYv0u6zg1x87uPPaYDFmtwWbEp3haXurqFKfxBBKJvVBGKlZbfsjfZmC4fpr/0p8\n6bv9NEqUMauYF87gI/I3ZVcl7K/WHwZg1yqdjFSGCW4m1c8w1e81uq9pAoGBAJZb\nAO92U4cMOc4fyWu2AlAR8mnQnKMbxAOXfKzPn4reYsM+9IPyyc2HcZyIFv4lDh89\nepIzsOydZH1dAXMb4+5Ri/cPKZ0qZM8FnKQuhPrudVWJkWiA0/04xt4j8zgvppi/\nzR5sARFN9eIkBgImRJC0a3EvU7tEfj0DDtz8i/BhAoGBALCRnFySWxjMSwRgJSy0\nUJO/n9QiQpSGrMgXRsNRWctgIHcNPG5dHu0wiQVMOi5Z1uDaaMzDLwTjEzzSjUPw\nQGyhMvZyqYMc4zpdYPk4ot+LfBXSi7eYF+aq18XdSaqdhqy5IQnu7G2IR7gpYJdx\nNlP56m7b/eYRdbtknBA2M7Fe\n-----END PRIVATE KEY-----\n",
+  "client_email": "projeto-dash-compras@projeto-dash-compras.iam.gserviceaccount.com",
+  "client_id": "106508740923234029382",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/projeto-dash-compras%40projeto-dash-compras.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

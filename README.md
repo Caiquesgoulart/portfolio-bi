@@ -21,6 +21,13 @@ Você pode conferir o pbix, juntamente com a planilha utilizada, aqui: [dashboar
  
 
 ## Projeto ETL de compras + Dashboard no Looker
-Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto: 
-- 
+Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
+
+- Carregar uma planilha com quatro abas para o BigQuery
+- Iterar com todas as aba para subir cada uma para sua respectiva tabela no BigQuery
+- Aprender a trabalhar com Python + BigQuery, integrar os dois
+
+### O código: 
+O código completo pode ser encontrado pelo link: [main.py]()
+
 

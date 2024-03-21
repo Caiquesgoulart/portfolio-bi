@@ -26,6 +26,8 @@ Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
 - Carregar uma planilha com quatro abas para o BigQuery
 - Iterar com todas as aba para subir cada uma para sua respectiva tabela no BigQuery
 - Aprender a trabalhar com Python + BigQuery, integrar os dois
+- Desenvolver habilidades com o Looker Studio
+- Fazer conexão do BigQuery com o Looker
 
 ### O código: 
 O código completo pode ser encontrado pelo link: [main.py](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_compras/main.py) na pasta "etl_compras"

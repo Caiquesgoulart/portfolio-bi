@@ -47,12 +47,24 @@ def get_data(file):
 # ===================================================================================
 def tratar_dados(data):
     print('Tratando dados e colunas...')
+
+    data['compras'] = data['compras'].rename(columns={'Desconto (%)': 'Desconto Percentual'})
+
     try:
-        data['compras'] = data['compras'].rename(columns={'Desconto (%)': 'Desconto Percentual'})
+        for tabela in data.keys():
+            for coluna in data[tabela].columns: 
+                print(f'renomeando a coluna {data[tabela][coluna]}')
+                data[tabela].rename(columns={coluna: coluna.replace(' ', '_')}, inplace=True)
+                
         print('Dados tratados com sucesso!')
 
+    except KeyError as e:
+        print(f'Erro no acesso à coluna: {e}')
+    except ValueError as e:
+        print(f'Erro de conversão de tipo: {e}')
     except Exception as e:
         print(f'Erro no tratamento: {e}')
+
 
 # ===================================================================================
 # DEFININDO FUNÇÃO PARA SUBIR OS DADOS PARA O BIGQUERY

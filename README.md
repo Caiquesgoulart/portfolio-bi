@@ -33,7 +33,11 @@ Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
 O código completo pode ser encontrado pelo link: [main.py](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_compras/main.py) na pasta "etl_compras". O código possuí comentários explicando todos os passos que realizei. 
 
 ### O dashboard: 
-Em desenvolvimento...
+Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
+
+v0.4
+![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/3bf71b15-70b6-44d5-b05e-bc95ec802109)
+
 
 
 

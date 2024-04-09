@@ -36,7 +36,7 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
 
 v0.5
-<iframe width="600" height="750" src="https://lookerstudio.google.com/embed/reporting/80f56fc9-25c5-4ba0-9b11-591bba8d00e6/page/BsOtD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
+[![Dashboard](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/0c49b6cb-20a0-465d-ba41-88acdb6d5dce)](https://lookerstudio.google.com/s/iclcIvS9is4)
 
 
 Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre os principais insight temos: 

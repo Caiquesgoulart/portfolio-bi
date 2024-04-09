@@ -38,6 +38,7 @@ Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
 v0.5
 <iframe width="600" height="750" src="https://lookerstudio.google.com/embed/reporting/80f56fc9-25c5-4ba0-9b11-591bba8d00e6/page/BsOtD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
+
 Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre os principais insight temos: 
 - Cards:
   - Qtde de pedidos: apresenta a quantidade total de pedidos realizados.

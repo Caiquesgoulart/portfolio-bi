@@ -35,8 +35,24 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 ### O dashboard: 
 Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
 
-v0.4
-![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/3bf71b15-70b6-44d5-b05e-bc95ec802109)
+v0.5
+![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/080fb516-03ee-4a35-85ac-a33dc8e2a0dd)
+
+Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre os principais insight temos: 
+- Cards:
+  - Qtde de pedidos: apresenta a quantidade total de pedidos realizados.
+  - Qtde pedidos atrasados: apresenta o total de pedidos entregues com atraso.
+  - Qtde pedidos no prazo: apresenta o total de pedidos entregues no prazo.
+  - % pedidos atrasados: visa mostrar o quão bem ou mal estão as entregas, aqui existe uma regra para, caso o valor for menor que 30% as cores ficam verdes indicando que está dentro do limite aceitável de pedidos atrasados, caso fique maior que 30% as cores ficam vermelhas.
+ 
+- Gráficos:
+    - % de pedidos por fornecedor: mostra os fornecedores com mais pedidos de forma percentual.
+    - Qtde de pedidos por comprados: mostra os compradores com mais pedidos.
+    - Materias primas mais vendidas
+    - Crescimento das vendas mês a mês: mostra uma visão que apresenta o crescimentos das vendas a cada ano e a cada mês.
+    - Detalhamento dos pedidos : uma visão mais detalhada dos pedidos para outros tipos de análises.
+
+
 
 
 

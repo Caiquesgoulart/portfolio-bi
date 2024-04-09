@@ -36,7 +36,7 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
 
 v0.5
-![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/080fb516-03ee-4a35-85ac-a33dc8e2a0dd)
+<iframe width="600" height="750" src="https://lookerstudio.google.com/embed/reporting/80f56fc9-25c5-4ba0-9b11-591bba8d00e6/page/BsOtD" frameborder="0" style="border:0" allowfullscreen sandbox="allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
 
 Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre os principais insight temos: 
 - Cards:

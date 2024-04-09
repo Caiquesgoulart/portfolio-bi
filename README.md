@@ -36,6 +36,7 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 Em desenvolvimento... Estou atualizando conforme trabalho no dashboard.
 
 v0.5
+#### Clique para seguir o link para o dashboard, você pode testar os filtros e outras funcionalidades por lá.
 [![Dashboard](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/0c49b6cb-20a0-465d-ba41-88acdb6d5dce)](https://lookerstudio.google.com/s/iclcIvS9is4)
 
 

@@ -35,7 +35,7 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 ### O dashboard: 
 
 #### Clique para seguir o link para o dashboard, você pode testar os filtros e outras funcionalidades por lá.
-[![Dashboard](![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/1f220a93-00da-4952-9822-ca04ee5b1e18)
+[![Dashboard](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/1f220a93-00da-4952-9822-ca04ee5b1e18)
 )](https://lookerstudio.google.com/s/iclcIvS9is4)
 
 

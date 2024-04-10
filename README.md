@@ -35,7 +35,8 @@ O código completo pode ser encontrado pelo link: [main.py](https://github.com/C
 ### O dashboard: 
 
 #### Clique para seguir o link para o dashboard, você pode testar os filtros e outras funcionalidades por lá.
-[![Dashboard](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/0c49b6cb-20a0-465d-ba41-88acdb6d5dce)](https://lookerstudio.google.com/s/iclcIvS9is4)
+[![Dashboard](![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/1f220a93-00da-4952-9822-ca04ee5b1e18)
+)](https://lookerstudio.google.com/s/iclcIvS9is4)
 
 
 Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre os principais insight temos: 

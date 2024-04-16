@@ -59,9 +59,9 @@ Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre
  - Maior liberdade para criar métricas graças ao DAX, por exemplo:
     - Top Fornecedor: Exibe o fornecedor com mais vendas
     - Top comprador: Exibe o comprador com mais vendas
-    - Tempo médio de entrega: Exibe o tempo médio dsa entregas, aqiu returnando um número inteiro e concatenando com o texto "dias".
+    - Tempo médio de entrega: Exibe o tempo médio das entregas, aqui retornando um número inteiro e concatenando com o texto "dias".
 
-Nesse dashboard também trabalhei com um design bem diferentes do abitual, meu objetivo é aprimorar a criatrividade para trazer uma melhor usabilidade e visualização, para que, dessa forma, as perguntas sejam sanadas de forma rápida e direta. 
+Nesse dashboard também trabalhei com um design bem diferentes do habitual, meu objetivo é aprimorar a criatrividade para trazer uma melhor usabilidade e visualização, para que, dessa forma, as perguntas sejam sanadas de forma rápida e direta. 
 
 Você pode conferir o pbix com todas as métricas, relacionamentos e tabelas pelo link: [Dashboard PBI](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/etl_compras/dashboard)]
 

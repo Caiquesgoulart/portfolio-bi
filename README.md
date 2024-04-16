@@ -65,8 +65,7 @@ Nesse dashboard também trabalhei com um design bem diferentes do abitual, meu o
 
 Você pode conferir o pbix com todas as métricas, relacionamentos e tabelas pelo link: [Dashboard PBI](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/etl_compras/dashboard)]
 
-![image](![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/2d0f9ba8-1eb0-492c-9f5a-74e73639f88c)
-)
+![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/2d0f9ba8-1eb0-492c-9f5a-74e73639f88c)
 
 
 

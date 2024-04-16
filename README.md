@@ -56,9 +56,12 @@ Esse dashboard visa apresentar insights sobre as vendas de uma empresa X, dentre
  ### Dashboard em PowerBI 
  Aqui contruí um dashboard com os mesmos dados, porém com PowerBI, as vantagens e diferenças são: 
  - Maior variedade de ferramentas de personalização para design
- - Maior liberdade para criar métricas graças ao DAX
+ - Maior liberdade para criar métricas graças ao DAX, por exemplo:
+    - Top Fornecedor: Exibe o fornecedor com mais vendas
+    - Top comprador: Exibe o comprador com mais vendas
+    - Tempo médio de entrega: Exibe o tempo médio dsa entregas, aqiu returnando um número inteiro e concatenando com o texto "dias".
 
-Você pode conferir o pbix com todas as métricas, relacionamentos e tabelas pelo link: [![Dashboard PBI](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/etl_compras/dashboard)]
+Você pode conferir o pbix com todas as métricas, relacionamentos e tabelas pelo link: [Dashboard PBI](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/etl_compras/dashboard)]
 
 ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/c197d555-944d-4bba-840f-8d1088ad3a02)
 

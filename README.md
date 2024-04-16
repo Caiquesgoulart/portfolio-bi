@@ -20,7 +20,7 @@ Você pode conferir o pbix, juntamente com a planilha utilizada, aqui: [dashboar
   - O gráfico de linhas também funciona bem pois temos apenas dois anos para analisar.
  
 
-## Projeto ETL de compras + Dashboard no Looker
+## Projeto ETL de compras + Dashboard no Looker (Extra: Dashboard em PowerBI)
 Esse é um projeto para estudar ETLs com Python, alguns desafios desse projeto.
 
 - Carregar uma planilha com quatro abas para o BigQuery

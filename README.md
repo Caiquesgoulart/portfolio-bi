@@ -79,7 +79,7 @@ Esse projeto foi baseado em um projeto da hashtag treinamentos. link: https://ww
 - A planilha passou por alguns tratamentos, desde o PowerQuery até colunas calculadas.
 
 ### O dashboard 
-O pbix pode ser conferido pelo link: ![pbix]()
+O pbix pode ser conferido pelo link: ![pbix](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/dashboard_producao)
 ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/1174837e-3baf-4464-919e-301027459ca1)
 
 

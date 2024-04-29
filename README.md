@@ -68,7 +68,7 @@ Você pode conferir o pbix com todas as métricas, relacionamentos e tabelas pel
 ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/2d0f9ba8-1eb0-492c-9f5a-74e73639f88c)
 
 ## Dashboard de Produção 
-Esse projeto foi baseado em um projeto da hashtag treinamentos. link: https://www.youtube.com/watch?v=qt_LkaYegr0&t=71s&ab_channel=HashtagTreinamentos
+Esse projeto foi baseado em um projeto da hashtag treinamentos. link: [Treinamento Hashtag](https://www.youtube.com/watch?v=qt_LkaYegr0&t=71s&ab_channel=HashtagTreinamentos)
 
 ### Detalhes 
 - Aqui fiz o dashboard com algumas diferenças, dentre elas:

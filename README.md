@@ -83,9 +83,18 @@ O pbix pode ser conferido pelo link: [pbix](https://github.com/Caiquesgoulart/po
 ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/7ea1d4df-cb62-422c-80c8-09654bef7ca7)
 
 ## ETL com Swapi - Consumir dados da API de Star Wars
-Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito é consumir os dados, tratá-los e construir um dashboard em PowerBI 
+Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito é consumir os dados, tratá-los, fazer upload para tabelas do BigQuery e construir um dashboard em PowerBI com elas. 
 
-[O código](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_starwars_api/main.py)
+[O código](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_starwars_api/main.py) 
+
+Projeto ainda em andamento... 
+Concluído: 
+- ETL completo para consumir, tratar e subir dados para o BigQuery.
+- Alguns tratamentos no consumo da API
+  - Um dos grandes desafios é que alguns campos vem como urls para chamada de API dentro de outra chamada, o que traz a necessidade de criar um laço para iterar por cada linha e verificar cada campo que, quando for uma url, será feita uma nova request para trazer o campo de fato.
+ 
+Ainda em progresso: 
+- Estou enfrentando um problema, alguns campos possuem multiplos valores, o que me retorna um erro quando tento subí-los para o BigQuery. (O ETL funciona perfeitamente se eu remover tais campos, mas encarei como um desafio e estou estudando para resolver esse problema) 
 
 
 

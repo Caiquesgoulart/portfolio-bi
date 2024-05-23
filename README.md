@@ -82,6 +82,11 @@ Esse projeto foi baseado em um projeto da hashtag treinamentos. link: [Treinamen
 O pbix pode ser conferido pelo link: [pbix](https://github.com/Caiquesgoulart/portfolio-bi/tree/main/dashboard_producao)
 ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/7ea1d4df-cb62-422c-80c8-09654bef7ca7)
 
+## ETL com Swapi - Consumir dados da API de Star Wars
+Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito é consumir os dados, tratá-los e construir um dashboard em PowerBI 
+
+
+
 
 
 

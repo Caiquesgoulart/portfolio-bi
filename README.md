@@ -88,6 +88,7 @@ Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito
 [O código](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_starwars_api/main.py) 
 
 Projeto ainda em andamento... 
+
 Concluído: 
 - ETL completo para consumir, tratar e subir dados para o BigQuery.
 - Alguns tratamentos no consumo da API

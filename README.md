@@ -85,6 +85,9 @@ O pbix pode ser conferido pelo link: [pbix](https://github.com/Caiquesgoulart/po
 ## ETL com Swapi - Consumir dados da API de Star Wars
 Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito é consumir os dados, tratá-los e construir um dashboard em PowerBI 
 
+[O código](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_starwars_api/main.py)
+
+
 
 
 

@@ -38,7 +38,6 @@ def get_data():
                             else:
                                 new_value = campo.json()['title']
 
-                            new_value = np.array(new_value)
                             page_data.at[row_idx, col] = new_value
                             # print(f'{l}')
                         else:
@@ -97,20 +96,18 @@ def tratar_dados(data):
                     else:
                         continue
             except KeyError as e: 
-                print(f'> Erro ao remover colunas: {e}') 
+                print(f'> Erro ao remover colunas predefinidas: {e}') 
 
             # Removendo colunas de lista 
             try:
-                tabela = pd.DataFrame(tabela)
-
-                for coluna in tabela.items:
-                    if isinstance(coluna, list):
-                        print(coluna)
-                        tabela = tabela.drop(tabela[coluna])
+                for coluna in tabela.columns:
+                    if isinstance(tabela[coluna].iloc[0], list):
+                        # print(coluna)
+                        tabela = tabela.drop(coluna, axis=1)
                     else:
                         continue
             except Exception as e:
-                print(f'> Erro na remoção das colunas: {e}')
+                print(f'> Erro ao remover colunas com linhas: {e}')
                         
             print(f'> Tabela "{tabela_nome}" tratada com sucesso!')
             tabelas_tratadas[tabela_nome] = tabela

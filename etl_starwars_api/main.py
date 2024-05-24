@@ -107,7 +107,7 @@ def tratar_dados(data):
                     else:
                         continue
             except Exception as e:
-                print(f'> Erro ao remover colunas com linhas: {e}')
+                print(f'> Erro ao remover colunas com listas: {e}')
                         
             print(f'> Tabela "{tabela_nome}" tratada com sucesso!')
             tabelas_tratadas[tabela_nome] = tabela

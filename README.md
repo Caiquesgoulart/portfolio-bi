@@ -91,6 +91,10 @@ Concluído:
 - ETL completo para consumir, tratar e subir dados para o BigQuery.
 - Alguns tratamentos no consumo da API
   - Um dos grandes desafios é que alguns campos vem como urls para chamada de API dentro de outra chamada, o que traz a necessidade de criar um laço para iterar por cada linha e verificar cada campo que, quando for uma url, será feita uma nova request para trazer o campo de fato.
+ 
+A desenvolver: 
+- Dashboard
+  - O dashboard será bem simples, a intenção aqui é apenas mostrar os dados que foram adquiridos pelo ETL como insights mais consolidados. 
 
 
 

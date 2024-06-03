@@ -98,7 +98,7 @@ def tratar_dados(data):
             except KeyError as e: 
                 print(f'> Erro ao remover colunas predefinidas: {e}') 
 
-            # Removendo colunas de lista 
+            # Removendo colunas com listas 
             try:
                 for coluna in tabela.columns:
                     if isinstance(tabela[coluna].iloc[0], list):
@@ -151,21 +151,22 @@ def load_data_togbq(nome_tabela, dados):
 # =================================================================================================
 if __name__ == '__main__':
 
-    print('Iniciando função main...\n')
+    print('=' * 50)
+    print('\nIniciando função main...\n')
 
     try:
-        for i in range(1,50): print('=', end = '')
+        print('=' * 50)
         data = get_data()
 
-        for i in range(1,50): print('=', end = '')
+        print('=' * 50)
         dados = tratar_dados(data)
 
-        for i in range(1,50): print('=', end = '')
+        print('=' * 50)
         print('\nIniciando carregamento das tabelas para o BigQuery...')
         for nome_tabela, tabela in dados.items():
             load_data_togbq(nome_tabela, tabela)
         
-        for i in range(1,50): print('=', end = '')
+        print('=' * 50)
         print('\nFunção finalizada com sucesso! Finalizando...')
         sys.exit(0)
 

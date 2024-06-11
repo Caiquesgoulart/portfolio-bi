@@ -87,14 +87,19 @@ Esse projeto tem como objetivo o estudo do consumo de APIs com python, o intuito
 
 [O código](https://github.com/Caiquesgoulart/portfolio-bi/blob/main/etl_starwars_api/main.py) 
 
-Concluído: 
+Concluído:
 - ETL completo para consumir, tratar e subir dados para o BigQuery.
 - Alguns tratamentos no consumo da API
   - Um dos grandes desafios é que alguns campos vem como urls para chamada de API dentro de outra chamada, o que traz a necessidade de criar um laço para iterar por cada linha e verificar cada campo que, quando for uma url, será feita uma nova request para trazer o campo de fato.
  
-A desenvolver: 
-- Dashboard
-  - O dashboard será bem simples, a intenção aqui é apenas mostrar os dados que foram adquiridos pelo ETL como insights mais consolidados. 
+Dashboard em desenvolvimento: 
+- O objetivo principal é trabalhar com navegação entre as página utilizando botões:
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/fa70f5d9-e15f-44d8-8345-3ec1bfceaefb)
+  - Aqui estamos na página principal, utilizando o botão (que tem a face do Darth Vader) para ir até a página dos personagens: 
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/186fbb6b-13f6-416e-be03-093a391b08a8)
+
+
+
 
 
 

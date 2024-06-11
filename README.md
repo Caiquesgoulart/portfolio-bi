@@ -92,7 +92,7 @@ Concluído:
 - Alguns tratamentos no consumo da API
   - Um dos grandes desafios é que alguns campos vem como urls para chamada de API dentro de outra chamada, o que traz a necessidade de criar um laço para iterar por cada linha e verificar cada campo que, quando for uma url, será feita uma nova request para trazer o campo de fato.
  
-Dashboard em desenvolvimento: 
+Dashboard em desenvolvimento (Arquivo .pbix ainda não disponível): 
 - O objetivo principal é trabalhar com navegação entre as página utilizando botões:
   - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/fa70f5d9-e15f-44d8-8345-3ec1bfceaefb)
   - Aqui estamos na página principal, utilizando o botão (que tem a face do Darth Vader) para ir até a página dos personagens: 

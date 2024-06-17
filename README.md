@@ -94,9 +94,8 @@ Concluído:
  
 Dashboard: 
 - O objetivo principal é trabalhar com navegação entre as página utilizando botões:
-  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/fa70f5d9-e15f-44d8-8345-3ec1bfceaefb)
   - Aqui estamos na página principal, utilizando o botão (que tem a face do Darth Vader) para ir até a página dos personagens: 
-  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/186fbb6b-13f6-416e-be03-093a391b08a8)
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/fa70f5d9-e15f-44d8-8345-3ec1bfceaefb)
   - Esta é a página de personagens:
   - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/6cf28e61-e9e3-4006-a2ef-b1593b28c42a)
   - Esta é a página de planetas:

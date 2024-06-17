@@ -97,6 +97,16 @@ Dashboard em desenvolvimento (Arquivo .pbix ainda não disponível):
   - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/fa70f5d9-e15f-44d8-8345-3ec1bfceaefb)
   - Aqui estamos na página principal, utilizando o botão (que tem a face do Darth Vader) para ir até a página dos personagens: 
   - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/186fbb6b-13f6-416e-be03-093a391b08a8)
+  - Esta é a página de personagens:
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/6cf28e61-e9e3-4006-a2ef-b1593b28c42a)
+  - Esta é a página de planetas:
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/aa674878-8bfa-4fc1-9bc3-9c118f0fd522)
+  - Por fim, esta é a página de naves:
+  - ![image](https://github.com/Caiquesgoulart/portfolio-bi/assets/70335792/841b2a42-226e-41d1-a9db-e39de69d3b55)
+- É possível navegar entre as páginas pelos botões de ação.
+
+
+
 
 
 
